@@ -1,0 +1,2 @@
+# newfeatures
+include all pins
